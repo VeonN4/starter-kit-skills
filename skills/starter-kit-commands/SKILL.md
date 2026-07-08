@@ -105,16 +105,16 @@ Generates backend and frontend for a CRUD entity. Works for the main app or insi
 
 | Option | Default | Description |
 |--------|---------|-------------|
-| `--package` | _(none)_ | Target package. Omit for main app. |
+| `--package` | (none) | Target package. Omit for main app. |
 | `--fields` | `name:textbox,description:textarea,is_active:select` | Field definitions (`name:type:validation`) |
 | `--searchable` | `name` | Comma-separated searchable fields |
 | `--filterable` | `is_active` | Comma-separated filterable fields |
 | `--icon` | `Tag` | Lucide icon name |
-| `--relationships` | _(none)_ | `relation:type:Model:foreign_key` format |
-| `--table-relationships` | _(none)_ | `relation.field` columns shown in the table |
-| `--table-fields` | _(none)_ | Extra table columns |
-| `--view` | _(none)_ | `modal` or `page` view mode |
-| `--system-setup` | _(flag)_ | Generate as system setup module (package only) |
+| `--relationships` | (none) | `relation:type:Model:foreign_key` format |
+| `--table-relationships` | (none) | `relation.field` columns shown in the table |
+| `--table-fields` | (none) | Extra table columns |
+| `--view` | (none) | `modal` or `page` view mode |
+| `--system-setup` | (flag) | Generate as system setup module (package only) |
 | `--system-setup-icon` | `Settings` | Icon for system setup entry |
 
 ### Field format
