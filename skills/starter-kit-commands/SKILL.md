@@ -1,6 +1,6 @@
 ---
 name: starter-kit-commands
-description: Reference for all custom Artisan commands and standalone scripts in this Laravel Starter Kit project: package:make, make:package, make:crudly, route:find-duplicates, app:install, package:seed, and extract-translations.php. Use this skill when the user asks you to run, explain, scaffold, or create any of these commands — or when they mention creating packages, CRUD modules, seeding, translation extraction, or any project scaffolding task. Also use when the user asks about the field types available for CRUD generation, package structure, or how the module/permission system works.
+description: "Reference for all custom Artisan commands and standalone scripts in this Laravel Starter Kit project: package:make, make:package, make:crudly, route:find-duplicates, app:install, package:seed, and extract-translations.php. Use this skill when the user asks you to run, explain, scaffold, or create any of these commands - or when they mention creating packages, CRUD modules, seeding, translation extraction, or any project scaffolding task. Also use when the user asks about the field types available for CRUD generation, package structure, or how the module/permission system works."
 ---
 
 # Laravel Starter Kit — Custom Commands
